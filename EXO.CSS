@@ -1,0 +1,6 @@
+.code {
+    display: grid;
+    grid-template-columns : 12em 1fr;
+    grid-template-rows: 2em;
+};
+
